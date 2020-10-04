@@ -18,3 +18,5 @@ with smart_run(session):
 
     # activity
     session.like_by_tags(["natgeo"], amount=10)
+
+# set up git master
